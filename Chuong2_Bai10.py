@@ -1,0 +1,7 @@
+print("x = x + 1 --> x+=1") 
+print("x = x / 2 --> x/=2")
+print("x = x – 1 --> x-=1")
+print("x = x + y --> x+=y")
+print("x = x - (y + 7) --> x-=(y+7)")
+print("x = 2*x --> x*=2")
+print("number_of_closed_cases = number_of_closed_cases + 2*ncc --> number_of_closed_cases += 2*ncc")
